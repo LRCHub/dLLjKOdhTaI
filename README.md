@@ -1,0 +1,44 @@
+# Breaking Benjamin – So Cold
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[01:04.24] Crowded streets are cleared away one by one
+[01:10.47] Hollow heroes separate as they run
+[01:16.35] You're so cold, keep your hand in mine
+[01:22.79] Wise men wonder while strong men die
+[01:40.79] 
+[01:30.18] Show me how it ends, it's alright
+[01:36.33] Show me how defenseless you really are
+[01:42.76] Satisfied and empty inside
+[01:48.80] Well, that's alright
+[01:50.67] Let's give this another try
+[02:04.17] 
+[02:07.18] If you find your family, don't you cry
+[02:13.21] In this land of make believe, dead and dry
+[02:19.27] You're so cold, but you feel alive
+[02:25.40] Lay your head on me one last time
+[02:41.90] 
+[02:33.05] Show me how it ends, it's alright
+[02:39.14] Show me how defenseless you really are
+[02:45.45] Satisfied and empty inside
+[02:51.67] Well, that's alright
+[02:53.37] Let's give this another try
+[03:06.87] 
+[03:23.04] Show me how it ends, it's alright
+[03:29.37] Show me how defenseless you really are
+[03:35.67] Satisfied and empty inside
+[03:41.78] Well that's alright
+[03:43.53] Let's give this another try
+[03:57.03] 
+[03:48.83] It's alright
+[03:54.83] 
+[03:58.38] It's alright
+[04:01.56] It's alright
+[04:04.62] It's alright
+[04:07.77] It's alright
+[04:11.02] It's alright
+[04:13.96] It's alright
+[04:17.00] It's alright
+[04:20.47] It's alright
+```
