@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "So Cold",
+  "base_artist": "Breaking Benjamin",
+  "createdAt": "2026-02-17T14:34:17.965911Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heart So Cold",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/01_Heart_So_Cold_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love So Cold",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/02_Love_So_Cold_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "World Is So Cold",
+      "artist": "Ginuwine",
+      "has_synced": true,
+      "path": "select/03_World_Is_So_Cold_Ginuwine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "World Is So Cold (Interlude)",
+      "artist": "Ginuwine",
+      "has_synced": false,
+      "path": "select/04_World_Is_So_Cold_(Interlude)_Ginuwine.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So Cold the Night",
+      "artist": "Communards, The",
+      "has_synced": false,
+      "path": "select/05_So_Cold_the_Night_Communards,_The.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So Young But So Cold",
+      "artist": "Nouvelle Vague feat. Charlie Winston",
+      "has_synced": false,
+      "path": "select/06_So_Young_But_So_Cold_Nouvelle_Vague_feat._Charlie_Winston.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So Young But So Cold",
+      "artist": "Nouvelle Vague, Charlie Winston",
+      "has_synced": false,
+      "path": "select/07_So_Young_But_So_Cold_Nouvelle_Vague,_Charlie_Winston.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "So Cold In Ireland",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/08_So_Cold_In_Ireland_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She Can Be So Cold",
+      "artist": "PaceWon & Mr. Green",
+      "has_synced": true,
+      "path": "select/09_She_Can_Be_So_Cold_PaceWon_&_Mr._Green.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "So Cold",
+      "artist": "Jamie Lidell",
+      "has_synced": false,
+      "path": "select/10_So_Cold_Jamie_Lidell.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "But Why's It So Cold?",
+      "artist": "The Dicamillo Sisters",
+      "has_synced": false,
+      "path": "select/11_But_Why's_It_So_Cold_The_Dicamillo_Sisters.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "But Why's It's So Cold (feat. Jimmy Pop & Bam Margera)",
+      "artist": "The DiCamillo Sisters",
+      "has_synced": false,
+      "path": "select/12_But_Why's_It's_So_Cold_(feat._Jimmy_Pop_&_Bam_Margera)_The_DiCamillo_Sisters.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "So Cold",
+      "artist": "As Animals",
+      "has_synced": true,
+      "path": "select/13_So_Cold_As_Animals.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "She's So Cold",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/14_She's_So_Cold_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sheâ€™s So Cold",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/15_Sheâ€TMs_So_Cold_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "So Cold the Night",
+      "artist": "Magnum",
+      "has_synced": true,
+      "path": "select/16_So_Cold_the_Night_Magnum.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "So Cold",
+      "artist": "Breaking Benjamin",
+      "has_synced": true,
+      "path": "select/17_So_Cold_Breaking_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "So Cold",
+      "artist": "Breaking Benjamin",
+      "has_synced": true,
+      "path": "select/18_So_Cold_Breaking_Benjamin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So Cold",
+      "artist": "Breaking Benjamin",
+      "has_synced": false,
+      "path": "select/pl_01_So_Cold_Breaking_Benjamin.txt"
+    }
+  ]
+}
